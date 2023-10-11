@@ -13,3 +13,7 @@ Only process 4CL, 9CL, UMI_100 and UMI_200.
     samtools
     stringtie2
     SQANTI3
+
+# Yield of sequencing data
+
+![Figure](figures/nascseq2_filter_propotion.png)
