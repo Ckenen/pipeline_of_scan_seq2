@@ -1,6 +1,5 @@
 results/
 datasets/
-figures/
 .snakemake/
 sj.*
 nohup.out
